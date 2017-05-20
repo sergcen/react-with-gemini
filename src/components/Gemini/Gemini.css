@@ -1,0 +1,15 @@
+.gemini-suite-wrapper {
+    display: inline-block;
+}
+
+.gemini-suite-wrapper *, gemini-suite-wrapper *:after, gemini-suite-wrapper *:before
+{
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -ms-transition: none !important;
+    -o-transition: none !important;
+    transition: none !important;
+    -webkit-animation: none !important;
+    -moz-animation: none !important;
+    animation: none !important;
+}
