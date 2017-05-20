@@ -1,4 +1,6 @@
 ## React with gemini testing
+Подтянуть скриншоты
+`git lfs pull`
 
 `npm install`
 
