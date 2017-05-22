@@ -1,4 +1,6 @@
 ## React with gemini testing
+установить расширение lfs
+`git lfs install`
 Подтянуть скриншоты
 `git lfs pull`
 
